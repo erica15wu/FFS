@@ -1,0 +1,8 @@
+// this is a program to calculate how many flowers it takes to kill a bear 
+// hi Erica! <3
+
+public class Poopy{
+public static void main(args[]){
+int poopy = 10000; 
+Sytem.out.println(poopy); 
+}
